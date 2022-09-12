@@ -62,3 +62,4 @@ I expect you to be able to communicate issues that you have clearly. I do not wa
 I expect you to make a clear and honest attempt to communicate the requirements of the task, as applicable, to the weeding and masking team. We will have a person that will be a 'runner' of sorts that will be in charge of weeding and masking. this person will be your weeding and masking delegate. 
 
 When you need a request relayed to the people that are weeding and masking, make sure that information is layed out clearly to the runner so that the runner can relay that information to the crew. If, for example, you have an order with the incorrect logo details, but they've been confirmed, you need to do let the runner know:
+
